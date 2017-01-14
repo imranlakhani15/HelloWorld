@@ -28,7 +28,7 @@ class ViewController: UIViewController {
 
     @IBAction func welcomePressed(_ sender: Any) {
         para.isHidden = false;
-        bg.isHidden = false;
+        bg.isHidden = true;
         clickBtn.isHidden = true;
         
     }
