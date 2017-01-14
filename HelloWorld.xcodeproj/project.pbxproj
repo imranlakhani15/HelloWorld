@@ -196,6 +196,7 @@
 				TargetAttributes = {
 					087BB6D01E12307D001F07FF = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = WQVVHAS6P5;
 						ProvisioningStyle = Automatic;
 					};
 					087BB6E71E12307E001F07FF = {
@@ -416,6 +417,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = WQVVHAS6P5;
 				INFOPLIST_FILE = HelloWorld/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.imran.HelloWorld;
@@ -428,6 +430,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = WQVVHAS6P5;
 				INFOPLIST_FILE = HelloWorld/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.imran.HelloWorld;
